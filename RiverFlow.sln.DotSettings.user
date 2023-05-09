@@ -1,0 +1,23 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e6e5276_002D8850_002D4b20_002Dbe48_002D0dfb4b801c0c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CalculateRiverFlow_calculates_flow_correctly" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7EE35F00-B2E2-4611-B727-2E6C372B4074::net7.0::RiverFlow.Tests.Unit.RiverFlowServiceTests.CalculateRiverFlow_calculates_flow_correctly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9734ac91_002Da627_002D4b9e_002D9bd3_002De515076becc5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Data_import_throws_exception_if_invalid_csv_is_used" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7EE35F00-B2E2-4611-B727-2E6C372B4074::net7.0::RiverFlow.Tests.Unit.DataImportServiceTests.Data_import_throws_exception_if_invalid_csv_is_used&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7EE35F00-B2E2-4611-B727-2E6C372B4074::net7.0::RiverFlow.Tests.Unit.RiverFlowServiceTests.CalculateRiverFlow_calculates_flow_correctly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=ab1a8348_002D564b_002D4e90_002Db50c_002D2e67c549d856/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Data_import_throws_exception_if_invalid_csv_is_used #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7EE35F00-B2E2-4611-B727-2E6C372B4074::net7.0::RiverFlow.Tests.Unit.RiverFlowServiceTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f17e9503_002Dba19_002D474d_002D9abf_002De6fb028462ec/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Data_import_throws_exception_if_invalid_csv_is_used #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7EE35F00-B2E2-4611-B727-2E6C372B4074::net7.0::RiverFlow.Tests.Unit.DataImportServiceTests.Data_import_throws_exception_if_invalid_csv_is_used&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7EE35F00-B2E2-4611-B727-2E6C372B4074::net7.0::RiverFlow.Tests.Unit.RiverFlowServiceTests.CalculateRiverFlow_calculates_flow_correctly&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

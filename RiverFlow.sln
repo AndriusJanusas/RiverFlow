@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiverFlow", "RiverFlow\RiverFlow.csproj", "{5785B466-977D-4311-9EFA-7F6975461FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RiverFlow.Tests.Unit", "RiverFlow.Tests.Unit\RiverFlow.Tests.Unit.csproj", "{7EE35F00-B2E2-4611-B727-2E6C372B4074}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5785B466-977D-4311-9EFA-7F6975461FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5785B466-977D-4311-9EFA-7F6975461FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5785B466-977D-4311-9EFA-7F6975461FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5785B466-977D-4311-9EFA-7F6975461FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE35F00-B2E2-4611-B727-2E6C372B4074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE35F00-B2E2-4611-B727-2E6C372B4074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE35F00-B2E2-4611-B727-2E6C372B4074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE35F00-B2E2-4611-B727-2E6C372B4074}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
